@@ -5,7 +5,19 @@
     "type": "magento2-module",
     "require": {
         "magento/framework": "*",
-        "magepal/magento2-gmailsmtpapp": "*"
+        "magepal/magento2-gmailsmtpapp": "*",
+        "avstudnitz/scopehint2": "*",
+        "baldwin/magento2-module-url-data-integrity-checker": "*",
+        "element119/module-indexer-deploy-config":"*",
+        "elgentos/regenerate-catalog-urls": "*",
+        "ethanyehuda/magento2-cronjobmanager": "*",
+        "fisheye/module-url-rewrite-optimiser": "*",
+        "redchamps/module-clean-admin-menu": "*",
+        "reach-digital/magento2-betterindexers": "*"
+    },
+    "require-dev": {
+        "mage2tv/magento-cache-clean",
+        "honl/magento2-templatehints"
     },
     "license": [
         "Proprietary"
