@@ -5,7 +5,7 @@
     "type": "magento2-module",
     "require": {
         "magento/framework": "*",
-        "mageplaza/module-smtp": "*"
+        "magepal/magento2-gmailsmtpapp": "*"
     },
     "license": [
         "Proprietary"
