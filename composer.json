@@ -16,8 +16,8 @@
         "reach-digital/magento2-betterindexers": "*"
     },
     "require-dev": {
-        "mage2tv/magento-cache-clean",
-        "honl/magento2-templatehints"
+        "mage2tv/magento-cache-clean" : "*",
+        "honl/magento2-templatehints" : "*"
     },
     "license": [
         "Proprietary"
