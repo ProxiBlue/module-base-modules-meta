@@ -14,7 +14,8 @@
         "fisheye/module-url-rewrite-optimiser": "*",
         "redchamps/module-clean-admin-menu": "*",
         "reach-digital/magento2-betterindexers": "*",
-        "magento/quality-patches": "*"
+        "magento/quality-patches": "*",
+        "vaimo/composer-patches": "*"
     },
     "require-dev": {
         "mage2tv/magento-cache-clean" : "*",
