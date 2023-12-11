@@ -17,7 +17,10 @@
     },
     "require-dev": {
         "mage2tv/magento-cache-clean" : "*",
-        "honl/magento2-templatehints" : "*"
+        "honl/magento2-templatehints" : "*",
+        "captainhook/captainhook": "*",
+        "yireo/magento2-autoflushcache": "*",
+        "yireo/magento2-checkouttester2": "*"
     },
     "license": [
         "Proprietary"
