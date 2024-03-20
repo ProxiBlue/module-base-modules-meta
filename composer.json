@@ -1,6 +1,6 @@
 {
     "name": "proxi-blue/module-base-modules-meta",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "N/A",
     "type": "magento2-module",
     "require": {
@@ -14,7 +14,14 @@
         "fisheye/module-url-rewrite-optimiser": "*",
         "redchamps/module-clean-admin-menu": "*",
         "reach-digital/magento2-betterindexers": "*",
-        "vaimo/composer-patches": "*"
+        "vaimo/composer-patches": "*",
+        "elgentos/regenerate-catalog-urls": "*",
+        "magento/quality-patches": "*",
+        "ssx/module-remove-elastic-suite-notification": "*",
+        "yireo/magento2-disablelog2": "*",
+        "yireo/magento2-next-gen-images": "*",
+        "yireo/magento2-replace-content-staging": "*",
+        "yireo/magento2-webp2": "*",
     },
     "require-dev": {
         "mage2tv/magento-cache-clean" : "*",
