@@ -21,6 +21,7 @@
         "yireo/magento2-next-gen-images": "*",
         "yireo/magento2-replace-content-staging": "*",
         "yireo/magento2-webp2": "*",
+        "baldwin/magento2-module-image-cleanup"
     },
     "require-dev": {
         "mage2tv/magento-cache-clean" : "*",
