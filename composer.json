@@ -14,7 +14,6 @@
         "reach-digital/magento2-betterindexers": "*",
         "vaimo/composer-patches": "*",
         "elgentos/regenerate-catalog-urls": "*",
-        "magento/quality-patches": "*",
         "ssx/module-remove-elastic-suite-notification": "*",
         "yireo/magento2-disablelog2": "*",
         "yireo/magento2-next-gen-images": "*",
