@@ -4,7 +4,6 @@
     "description": "N/A",
     "type": "magento2-module",
     "require": {
-        "magento/framework": "*",
         "magepal/magento2-gmailsmtpapp": "*",
         "avstudnitz/scopehint2": "*",
         "baldwin/magento2-module-url-data-integrity-checker": "*",
