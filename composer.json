@@ -20,7 +20,9 @@
         "yireo/magento2-replace-content-staging": "*",
         "yireo/magento2-webp2": "*",
         "baldwin/magento2-module-image-cleanup": "*",
-        "n98/magerun2-dist": "*"
+        "n98/magerun2-dist": "*",
+        "element119/module-admin-opcache-report": "*",
+        "magento/quality-patches": "*"
     },
     "require-dev": {
         "mage2tv/magento-cache-clean" : "*",
