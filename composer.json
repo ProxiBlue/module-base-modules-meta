@@ -1,6 +1,6 @@
 {
     "name": "proxi-blue/module-base-modules-meta",
-    "version": "1.0.12",
+    "version": "1.0.13",
     "description": "N/A",
     "type": "magento2-module",
     "require": {
@@ -17,7 +17,6 @@
         "ssx/module-remove-elastic-suite-notification": "*",
         "yireo/magento2-disablelog2": "*",
         "yireo/magento2-next-gen-images": "*",
-        "yireo/magento2-replace-content-staging": "*",
         "yireo/magento2-webp2": "*",
         "baldwin/magento2-module-image-cleanup": "*",
         "n98/magerun2-dist": "*",
