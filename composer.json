@@ -1,6 +1,6 @@
 {
     "name": "proxi-blue/module-base-modules-meta",
-    "version": "1.9",
+    "version": "1.1",
     "description": "N/A",
     "type": "magento2-module",
     "require": {
