@@ -11,7 +11,6 @@
         "ethanyehuda/magento2-cronjobmanager": "*",
         "fisheye/module-url-rewrite-optimiser": "*",
         "redchamps/module-clean-admin-menu": "*",
-        "reach-digital/magento2-betterindexers": "*",
         "vaimo/composer-patches": "*",
         "elgentos/regenerate-catalog-urls": "*",
         "ssx/module-remove-elastic-suite-notification": "*",
@@ -20,8 +19,7 @@
         "yireo/magento2-webp2": "*",
         "baldwin/magento2-module-image-cleanup": "*",
         "n98/magerun2-dist": "*",
-        "element119/module-admin-opcache-report": "*",
-        "magento/quality-patches": "*"
+        "element119/module-admin-opcache-report": "*"
     },
     "require-dev": {
         "mage2tv/magento-cache-clean" : "*",
