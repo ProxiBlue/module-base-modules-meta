@@ -1,6 +1,6 @@
 {
     "name": "proxi-blue/module-base-modules-meta",
-    "version": "1.2",
+    "version": "1.3",
     "description": "N/A",
     "type": "magento2-module",
     "require": {
@@ -18,8 +18,7 @@
         "yireo/magento2-webp2": "*",
         "baldwin/magento2-module-image-cleanup": "*",
         "n98/magerun2-dist": "*",
-        "element119/module-admin-opcache-report": "*",
-        "php": ">=8.2 <8.4"
+        "php": ">=8.2 <8.5"
     },
     "require-dev": {
         "mage2tv/magento-cache-clean" : "*",
